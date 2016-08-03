@@ -1,0 +1,16 @@
+//
+//  main.m
+//  XJPassworkView
+//
+//  Created by gn_macMini_liao on 16/8/3.
+//  Copyright © 2016年 gn_macMini_liao. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "AppDelegate.h"
+
+int main(int argc, char * argv[]) {
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+    }
+}
